@@ -1,7 +1,7 @@
 AGENDA = {}
 #AGENDA['rodrigo'] = {'telefone': '21882823',
  #                 'email': 'rodrigo@gmail.com',
-  #               'endereco': 'Av rondon', }
+  #               'endereco': 'Av diamante', }
 def mostrar_contatos(): #Função para mostrar a agenda todos os contatos
     if AGENDA:
         for contato in AGENDA:
